@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "auramutils",
+    "name": "Auram Utils",
+    "description": "Does things",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["cyberpwn"],
+    "credits": "cyberpwn",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
